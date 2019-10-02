@@ -1,0 +1,14 @@
+{
+  "name": "halloween",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass style.scss> style.css"
+  },
+  "author": "cyrille.meichel",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
